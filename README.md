@@ -11,7 +11,7 @@
 - Minimum **1 hour of active coding** daily.
 - No passive learning (videos, tutorials, reading).
 - Work/office tasks do **not** count.
-- Daily log will be updated here and optionally shared on LinkedIn/Twitter.
+- Daily log will be updated on LinkedIn/Twitter and optionally shared here.
 - If I miss a day, I will reset to Day 0.
 
 ---
