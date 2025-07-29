@@ -5,6 +5,7 @@
         "type_traits": "cpp",
         "regex": "cpp",
         "xlocale": "cpp",
-        "xstring": "cpp"
+        "xstring": "cpp",
+        "random": "cpp"
     }
 }
